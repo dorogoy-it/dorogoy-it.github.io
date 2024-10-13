@@ -61812,7 +61812,7 @@ return s.charCodeAt(0)==0?s:s},
 $ibY:1}
 A.CM.prototype={
 S(a){var s=null
-return new A.tr(B.yD,"Pixabay Image Gallery",A.abo(s,s,B.fH,s),s)}}
+return new A.tr(B.yD,"\u0413\u0430\u043b\u0435\u0440\u0435\u044f \u043a\u0430\u0440\u0442\u0438\u043d\u043e\u043a Pixabay",A.abo(s,s,B.fH,s),s)}}
 A.rX.prototype={
 am(){return new A.rY(A.b([],t.Ki),A.a_t())}}
 A.rY.prototype={
